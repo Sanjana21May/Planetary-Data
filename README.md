@@ -1,6 +1,4 @@
 # Planetary-Data
-package Fundamentals;
-
 public class planet {
     String planet_name;
     String surface_gasses;
